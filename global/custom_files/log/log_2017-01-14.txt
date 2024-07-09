@@ -1,0 +1,13 @@
+Login_success~1~2017-01-14 12:30:56
+Edit_category_list~1~2017-01-14 12:40:12
+Edit_category_list~1~2017-01-14 12:40:16
+Category_updated+-+1~1~2017-01-14 12:40:16
+Edit_category~1~2017-01-14 12:41:00
+Edit_category~1~2017-01-14 12:41:14
+Edit_category~1~2017-01-14 12:44:59
+Routine_updated+-+1~1~2017-01-14 12:44:59
+Edit_category~1~2017-01-14 12:45:06
+Signed_out~AMBIGUOUS~2017-01-14 12:50:07
+Login_success~1~2017-01-14 02:16:26
+Edit_category~1~2017-01-14 02:22:33
+Login_success~1~2017-01-14 02:29:00
